@@ -43,7 +43,7 @@ int main () {
 
     while (n1 == 1) {
         for (int n2 = 1; n2 <= 2; n2++) {
-            printf("\nAcima");
+            printf("\nBaixo");
         }
         printf("\nEsquerda");
         n1--;
